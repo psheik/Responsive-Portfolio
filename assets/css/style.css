@@ -263,6 +263,8 @@ font-size: 15px;
   text-align: center;
 }
 
+/*Media Screen Added for Responsive Layout Adjustments*/
+
 @media screen and (max-width: 980px) {
   div { 
     .col-1 {width: 8.33%;}
